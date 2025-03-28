@@ -4,10 +4,10 @@ Este notebook apresenta uma análise exploratória de um conjunto de dados de ve
 
 ## 📊 O código inclui:
 
-## 🛠️ Tratamento e conversão de dados
+### 🛠️ Tratamento e conversão de dados
 
-## 📊 Análise estatística das vendas
+### 📊 Análise estatística das vendas
 
-## 🌀 Visualizações interativas com Plotly e Matplotlib
+### 🌀 Visualizações interativas com Plotly e Matplotlib
 
-## 📌 Confira o notebook completo e contribua com sugestões!
+### 📌 Confira o notebook completo e contribua com sugestões!
